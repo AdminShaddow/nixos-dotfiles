@@ -1,0 +1,44 @@
+2026/02/02-18:51:50.618 64a Reusing MANIFEST /home/marcelb/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2026/02/02-18:51:50.632 64a Recovering log #5903
+2026/02/02-18:51:50.634 64a Level-0 table #5906: started
+2026/02/02-18:51:50.641 64a Level-0 table #5906: 55433 bytes OK
+2026/02/02-18:51:50.649 64a Delete type=0 #5903
+2026/02/02-18:53:50.987 64c Level-0 table #5909: started
+2026/02/02-18:53:51.000 64c Level-0 table #5909: 71667 bytes OK
+2026/02/02-18:53:51.007 64c Delete type=0 #5907
+2026/02/02-18:53:51.007 64c Compacting 4@0 + 1@1 files
+2026/02/02-18:53:51.015 64c Generated table #5910@0: 140 keys, 107600 bytes
+2026/02/02-18:53:51.015 64c Compacted 4@0 + 1@1 files => 107600 bytes
+2026/02/02-18:53:51.021 64c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/02-18:53:51.022 64c Delete type=2 #5900
+2026/02/02-18:53:51.022 64c Delete type=2 #5904
+2026/02/02-18:53:51.022 64c Delete type=2 #5906
+2026/02/02-18:53:51.022 64c Delete type=2 #5902
+2026/02/02-18:53:51.022 64c Delete type=2 #5909
+2026/02/02-18:55:50.988 64c Level-0 table #5912: started
+2026/02/02-18:55:51.001 64c Level-0 table #5912: 55614 bytes OK
+2026/02/02-18:55:51.008 64c Delete type=0 #5908
+2026/02/02-18:57:50.987 64c Level-0 table #5914: started
+2026/02/02-18:57:51.000 64c Level-0 table #5914: 55676 bytes OK
+2026/02/02-18:57:51.014 64c Delete type=0 #5911
+2026/02/02-18:58:50.987 64c Level-0 table #5916: started
+2026/02/02-18:58:51.007 64c Level-0 table #5916: 31627 bytes OK
+2026/02/02-18:58:51.016 64c Delete type=0 #5913
+2026/02/02-19:00:50.988 64c Level-0 table #5918: started
+2026/02/02-19:00:50.994 64c Level-0 table #5918: 55561 bytes OK
+2026/02/02-19:00:51.002 64c Delete type=0 #5915
+2026/02/02-19:00:51.003 64c Compacting 4@0 + 1@1 files
+2026/02/02-19:00:51.012 64c Generated table #5919@0: 140 keys, 107589 bytes
+2026/02/02-19:00:51.012 64c Compacted 4@0 + 1@1 files => 107589 bytes
+2026/02/02-19:00:51.019 64c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/02-19:00:51.020 64c Delete type=2 #5910
+2026/02/02-19:00:51.020 64c Delete type=2 #5914
+2026/02/02-19:00:51.020 64c Delete type=2 #5912
+2026/02/02-19:00:51.020 64c Delete type=2 #5916
+2026/02/02-19:00:51.020 64c Delete type=2 #5918
+2026/02/02-19:03:16.590 64c Level-0 table #5921: started
+2026/02/02-19:03:16.604 64c Level-0 table #5921: 56946 bytes OK
+2026/02/02-19:03:16.612 64c Delete type=0 #5917
+2026/02/02-19:05:50.987 64c Level-0 table #5923: started
+2026/02/02-19:05:51.000 64c Level-0 table #5923: 33276 bytes OK
+2026/02/02-19:05:51.007 64c Delete type=0 #5920

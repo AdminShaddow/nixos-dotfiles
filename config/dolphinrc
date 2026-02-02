@@ -1,0 +1,14 @@
+[ExtractDialog]
+1920x1080 screen: Height=540
+1920x1080 screen: Width=1266
+
+[General]
+Version=202
+ViewPropsTimestamp=2025,12,26,0,57,26.398
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled

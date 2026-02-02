@@ -1,0 +1,105 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "efdf0186059fe7dcfd684b4858ddb715404bda588d90b51acd97b12c120137fe",
+    "telemetry.devDeviceId": "c918eef2-1533-4dca-a20c-1bbdbfc8c45a",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [],
+        "emptyWindows": [
+            {
+                "backupFolder": "1770054896711"
+            }
+        ]
+    },
+    "windowControlHeight": 42,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///etc/nixos": "__default__profile__",
+            "file:///home/marcelb/dotfiles": "__default__profile__",
+            "file:///home/marcelb/.config": "__default__profile__",
+            "file:///home/marcelb/.config/vesktop": "__default__profile__",
+            "file:///home/marcelb/.config/i3": "__default__profile__",
+            "file:///home/marcelb/Bilder": "__default__profile__",
+            "file:///home/marcelb/Bilder/Bildschirmfotos": "__default__profile__",
+            "file:///home/marcelb/Schreibtisch/Python_Course": "__default__profile__"
+        },
+        "emptyWindows": {
+            "1770054896711": "__default__profile__"
+        }
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#141322",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#7c9c9e",
+            "background": "#141322",
+            "editorBackground": "#141322",
+            "titleBarBackground": "#100f1a",
+            "titleBarBorder": "#8c2c56",
+            "activityBarBackground": "#100f1a",
+            "activityBarBorder": "#8c2c56",
+            "sideBarBackground": "#12111f",
+            "sideBarBorder": "#1d1e7d",
+            "statusBarBackground": "#12111f",
+            "statusBarBorder": "#242560",
+            "statusBarNoFolderBackground": "#242560"
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "backupPath": "/home/marcelb/.config/VSCodium/Backups/1770054896711",
+            "uiState": {
+                "mode": 3,
+                "display": 63,
+                "width": 700,
+                "height": 733,
+                "x": 0,
+                "y": 0,
+                "zoomLevel": 1
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 300,
+            "workspaces": {
+                "539dcc530e78ca34638600b0993b56fa": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "a13bcf7caeabb2b3d90dfebca7b3cdba": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "2cb35b25406416b1f61a9d5f65cdf1c3": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "1699ed8ae8e59383a5f1270722435309": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "ef5c991037d029cf9f2cac95cd2b3206": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "3efc84be3c3068d7c8abaa65ef441a7e": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "9405b02d75260a162abc10e693608f19": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "d5d1ee01650c742264d8932570506b61": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

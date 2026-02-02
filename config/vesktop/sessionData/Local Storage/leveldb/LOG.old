@@ -1,0 +1,20 @@
+2026/02/02-18:15:58.122 1d3f Reusing MANIFEST /home/marcelb/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2026/02/02-18:15:58.133 1d3f Recovering log #5895
+2026/02/02-18:15:58.134 1d3f Level-0 table #5898: started
+2026/02/02-18:15:58.140 1d3f Level-0 table #5898: 56853 bytes OK
+2026/02/02-18:15:58.145 1d3f Delete type=0 #5895
+2026/02/02-18:15:58.146 1d79 Compacting 4@0 + 1@1 files
+2026/02/02-18:15:58.157 1d79 Generated table #5900@0: 140 keys, 106020 bytes
+2026/02/02-18:15:58.157 1d79 Compacted 4@0 + 1@1 files => 106020 bytes
+2026/02/02-18:15:58.168 1d79 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/02-18:15:58.168 1d79 Delete type=2 #5894
+2026/02/02-18:15:58.168 1d79 Delete type=2 #5892
+2026/02/02-18:15:58.168 1d79 Delete type=2 #5890
+2026/02/02-18:15:58.168 1d79 Delete type=2 #5898
+2026/02/02-18:15:58.168 1d79 Delete type=2 #5896
+2026/02/02-18:18:30.632 1d41 Level-0 table #5902: started
+2026/02/02-18:18:30.658 1d41 Level-0 table #5902: 75308 bytes OK
+2026/02/02-18:18:30.668 1d41 Delete type=0 #5899
+2026/02/02-18:45:38.832 1d41 Level-0 table #5904: started
+2026/02/02-18:45:38.837 1d41 Level-0 table #5904: 55684 bytes OK
+2026/02/02-18:45:38.841 1d41 Delete type=0 #5901

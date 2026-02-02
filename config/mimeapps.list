@@ -1,0 +1,33 @@
+[Default Applications]
+x-scheme-handler/discord=vesktop.desktop
+application/x-zerosize=codium.desktop
+font/ttf=org.kde.kate.desktop
+application/x-executable=wine.desktop
+inode/symlink=org.kde.kate.desktop
+application/x-partial-download=org.kde.ark.desktop
+
+[Added Associations]
+application/x-zerosize=howl.desktop;org.kde.kate.desktop;codium.desktop;
+text/plain=codium.desktop;howl.desktop;org.kde.kate.desktop;
+application/xml=org.kde.kate.desktop;firefox.desktop;
+font/ttf=org.kde.kate.desktop;
+text/x-csrc=org.kde.kate.desktop;
+image/png=qimgv.desktop;krita_png.desktop;
+application/vnd.rar=userapp-unrar-free-YZXPI3.desktop;
+application/x-executable=wine.desktop;
+application/json=org.kde.kate.desktop;
+inode/symlink=org.kde.kate.desktop;
+image/jpeg=qimgv.desktop;
+application/zip=org.kde.ark.desktop;firefox.desktop;
+application/x-fishscript=codium.desktop;org.kde.kate.desktop;
+application/x-shellscript=howl.desktop;codium.desktop;org.kde.kate.desktop;
+text/html=firefox.desktop;org.kde.kate.desktop;
+text/x-python=codium.desktop;
+image/webp=qimgv.desktop;
+application/schema+json=geany.desktop;codium.desktop;
+application/x-partial-download=org.kde.ark.desktop;
+video/mp4=mpv.desktop;umpv.desktop;org.kde.haruna.desktop;
+application/vnd.oasis.opendocument.text=writer.desktop;firefox.desktop;
+text/css=codium.desktop;
+image/gif=qimgv.desktop;
+application/vnd.ms-publisher=howl.desktop;

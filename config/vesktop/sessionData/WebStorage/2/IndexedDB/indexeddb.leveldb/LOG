@@ -1,0 +1,15 @@
+2026/01/24-22:04:14.453 3808 Reusing MANIFEST /home/marcelb/.config/vesktop/sessionData/WebStorage/2/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/01/24-22:04:14.453 3808 Recovering log #4
+2026/01/24-22:04:14.455 3808 Reusing old log /home/marcelb/.config/vesktop/sessionData/WebStorage/2/IndexedDB/indexeddb.leveldb/000004.log 
+2026/01/24-22:58:35.784 37eb Level-0 table #8: started
+2026/01/24-22:58:35.793 37eb Level-0 table #8: 56114 bytes OK
+2026/01/24-22:58:35.801 37eb Delete type=0 #4
+2026/01/24-22:58:35.802 37eb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/01/24-22:58:35.802 37eb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00`\xc91\x1d\xbfyB\x00\x03\x00\x00\x00\x00\x00\x008@' @ 698 : 1
+2026/01/24-22:58:35.802 37eb Compacting 1@1 + 1@2 files
+2026/01/24-22:58:35.809 37eb Generated table #9@1: 42 keys, 1109 bytes
+2026/01/24-22:58:35.809 37eb Compacted 1@1 + 1@2 files => 1109 bytes
+2026/01/24-22:58:35.816 37eb compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/24-22:58:35.817 37eb Delete type=2 #5
+2026/01/24-22:58:35.817 37eb Delete type=2 #8
+2026/01/24-22:58:35.817 37eb Manual compaction at level-1 from '\x00\x02\x01\x1f\x04\x03\x01\x03\x00N\x00E\x00W\x03\x00\x00\x00\x00\x00\x00L@\x03\x00`\xc91\x1d\xbfyB\x00\x03\x00\x00\x00\x00\x00\x008@' @ 698 : 1 .. (end); will stop at (end)
