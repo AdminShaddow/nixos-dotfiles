@@ -38,7 +38,10 @@
       dns = "systemd-resolved";
     };
     hostName = "nixos";
-    firewall.enable = true;
+    firewall = {
+      enable = true;
+      trustedInterfaces = [ "zt3hhnwgpj" ];
+    };
     # Open ports in the firewall.
     # networking.firewall.allowedTCPPorts = [ ... ];
     # networking.firewall.allowedUDPPorts = [ ... ];

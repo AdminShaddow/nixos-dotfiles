@@ -74,7 +74,6 @@
     arp-scan
     speedtest-cli
     # Packaging / Formatting / Disk
-    gparted
     rpi-imager
     kdePackages.isoimagewriter
     kdePackages.ark
@@ -92,7 +91,7 @@
     slurp
     grim
     slides
-    abaddon
-    qutebrowser
+    y-cruncher
+    kdePackages.partitionmanager
     ];
 }

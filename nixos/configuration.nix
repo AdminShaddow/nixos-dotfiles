@@ -9,6 +9,9 @@
     };
   };
 
+  # Authorization protocol
+  security.polkit.enable = true;
+
   # Bootloader
   boot = {
     kernelPackages = pkgs.linuxPackages_latest;

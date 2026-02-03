@@ -10,7 +10,7 @@
     ananicy = {
       enable = true;
       package = pkgs.ananicy-cpp;
-      rulesProvider = pkgs.ananicy-rules-cachyos;
+      #rulesProvider = pkgs.ananicy-rules-cachyos;
     };
     #
     scx = {
@@ -30,6 +30,17 @@
       cores = 0;
     };
   };
+#-----
+
+  zramSwap = {
+    enable = true;
+    algorithm = "zstd";
+    memoryPercent = 100;
+    priority = 10;
+    swapDevices = 1;
+    writebackDevice = "/dev/disk/by-uuid/fa033541-9088-46ff-9282-a74330d3e555";
+  };
+
 #-----
   powerManagement = {
     enable = true;
