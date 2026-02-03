@@ -1,9 +1,0 @@
-[Match]
-Name=wlan0
-
-[Link]
-RequiredForOnline=yes
-
-[Network]
-DHCP=yes
-IgnoreCarrierLoss=3s

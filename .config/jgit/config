@@ -1,6 +1,0 @@
-[filesystem "Eclipse Adoptium|21.0.8|/dev/nvme0n1p2"]
-	timestampResolution = 4282 nanoseconds
-	minRacyThreshold = 0 nanoseconds
-[filesystem "Eclipse Adoptium|17.0.16|/dev/nvme0n1p2"]
-	timestampResolution = 3565 nanoseconds
-	minRacyThreshold = 0 nanoseconds

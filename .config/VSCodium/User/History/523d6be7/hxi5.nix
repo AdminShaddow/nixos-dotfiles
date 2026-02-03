@@ -1,6 +1,0 @@
-{pkgs, lib, ... }:
-{
-  systemd.user = {
-
-  };
-}
