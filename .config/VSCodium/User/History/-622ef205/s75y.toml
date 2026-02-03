@@ -1,0 +1,11 @@
+[window]
+opacity = 0.9
+
+[cursor]
+style = { shape="Beam", blinking="Off" }
+
+[mouse]
+hide_when_typing = true
+
+[colors.primary]
+background = "#ff0000"

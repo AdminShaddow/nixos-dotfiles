@@ -1,0 +1,23 @@
+[
+	{
+		"name": "nixos",
+		"rootPath": "/etc/nixos",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "dotfiles",
+		"rootPath": "/home/marcelb/dotfiles",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	},
+	{
+		"name": "Vesktop",
+		"rootPath": "/home/marcelb/.config/vesktop",
+		"paths": [ "/home/marcelb/dotfiles/Vesktop" ],
+		"tags": [],
+		"enabled": true
+	}
+]

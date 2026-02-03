@@ -1,0 +1,9 @@
+[
+	{
+		"name": "nixos",
+		"rootPath": "/etc/nixos",
+		"paths": [ "/etc/nixos/configuration.nix" ],
+		"tags": [],
+		"enabled": true
+	}
+]

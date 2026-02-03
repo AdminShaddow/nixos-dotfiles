@@ -1,0 +1,14 @@
+[General]
+BackgroundColorMode=DocumentView::Dark
+LastUsedVersion=210800
+
+[MainWindow]
+MenuBar=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Bilder/wp13989221-deltarune-desktop-wallpapers.jpg
+Name1[$e]=wp13989221-deltarune-desktop-wallpapers.jpg
+
+[SideBar]
+InformationSplitterSizes=300,711
+SideBarSplitterSizes=250,1666

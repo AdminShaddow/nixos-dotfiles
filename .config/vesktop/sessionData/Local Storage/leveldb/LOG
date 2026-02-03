@@ -1,0 +1,35 @@
+2026/02/03-19:09:44.232 739 Reusing MANIFEST /home/marcelb/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2026/02/03-19:09:44.244 739 Recovering log #6130
+2026/02/03-19:09:44.245 739 Level-0 table #6133: started
+2026/02/03-19:09:44.253 739 Level-0 table #6133: 61450 bytes OK
+2026/02/03-19:09:44.262 739 Delete type=0 #6130
+2026/02/03-19:09:44.262 739 Compacting 4@0 + 1@1 files
+2026/02/03-19:09:44.277 739 Generated table #6135@0: 136 keys, 95460 bytes
+2026/02/03-19:09:44.277 739 Compacted 4@0 + 1@1 files => 95460 bytes
+2026/02/03-19:09:44.287 739 compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/03-19:09:44.288 739 Delete type=2 #6127
+2026/02/03-19:09:44.288 739 Delete type=2 #6131
+2026/02/03-19:09:44.288 739 Delete type=2 #6129
+2026/02/03-19:09:44.288 739 Delete type=2 #6133
+2026/02/03-19:09:44.288 739 Delete type=2 #6125
+2026/02/03-19:10:44.267 73b Level-0 table #6137: started
+2026/02/03-19:10:44.285 73b Level-0 table #6137: 71878 bytes OK
+2026/02/03-19:10:44.304 73b Delete type=0 #6134
+2026/02/03-19:11:44.519 73b Level-0 table #6139: started
+2026/02/03-19:11:44.534 73b Level-0 table #6139: 71351 bytes OK
+2026/02/03-19:11:44.542 73b Delete type=0 #6136
+2026/02/03-19:13:44.521 739 Level-0 table #6141: started
+2026/02/03-19:13:44.528 739 Level-0 table #6141: 58821 bytes OK
+2026/02/03-19:13:44.537 739 Delete type=0 #6138
+2026/02/03-19:15:44.529 73b Level-0 table #6143: started
+2026/02/03-19:15:44.556 73b Level-0 table #6143: 61014 bytes OK
+2026/02/03-19:15:44.573 73b Delete type=0 #6140
+2026/02/03-19:15:44.574 73b Compacting 4@0 + 1@1 files
+2026/02/03-19:15:44.591 73b Generated table #6144@0: 138 keys, 95369 bytes
+2026/02/03-19:15:44.591 73b Compacted 4@0 + 1@1 files => 95369 bytes
+2026/02/03-19:15:44.602 73b compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/02/03-19:15:44.604 73b Delete type=2 #6143
+2026/02/03-19:15:44.605 73b Delete type=2 #6135
+2026/02/03-19:15:44.605 73b Delete type=2 #6141
+2026/02/03-19:15:44.605 73b Delete type=2 #6139
+2026/02/03-19:15:44.605 73b Delete type=2 #6137

@@ -1,0 +1,80 @@
+{
+  "customTitlebar": true,
+  "minimizeToTray": true,
+  "startMinimized": false,
+  "dynamicIcon": true,
+  "customIconPath": "",
+  "discordUrl": "https://discord.com/app",
+  "modNames": [
+    "vencord",
+    "shelter"
+  ],
+  "customJsBundle": "",
+  "customCssBundle": "",
+  "noBundleUpdates": false,
+  "installDefaultShelterPlugins": true,
+  "invidiousEmbeds": true,
+  "messageEncryption": false,
+  "encryptionPasswords": [],
+  "encryptionCover": "",
+  "encryptionMark": "| ",
+  "firewall": true,
+  "customFirewallRules": false,
+  "blocklist": [
+    "https://*/api/v*/science",
+    "https://*/api/v*/applications/detectable",
+    "https://*/api/v*/auth/location-metadata",
+    "https://*/api/v*/premium-marketing",
+    "https://*/api/v*/scheduled-maintenances/upcoming.json",
+    "https://*/error-reporting-proxy/*",
+    "https://*/assets/version.*",
+    "https://cdn.discordapp.com/bad-domains/*",
+    "https://www.youtube.com/youtubei/v*/next?*",
+    "https://www.youtube.com/s/desktop/*",
+    "https://www.youtube.com/youtubei/v*/log_event?*"
+  ],
+  "blockedStrings": [
+    "sentry",
+    "google",
+    "tracking",
+    "stats",
+    "\\.spotify",
+    "pagead",
+    "analytics",
+    "doubleclick"
+  ],
+  "allowedStrings": [
+    "videoplayback",
+    "discord-attachments",
+    "googleapis",
+    "search",
+    "api.spotify"
+  ],
+  "arrpc": false,
+  "launchWithOsBoot": false,
+  "spellcheck": false,
+  "popoutWindowAlwaysOnTop": true,
+  "updateNotification": false,
+  "autoscroll": false,
+  "transparency": true,
+  "screensharePreviousSettings": [
+    4000,
+    60,
+    true,
+    "detail"
+  ],
+  "windowState:main": [
+    true,
+    [
+      0,
+      0
+    ],
+    [
+      835,
+      600
+    ]
+  ],
+  "cloudHost": "https://goofcordcloud.wuemeli.com",
+  "cloudToken": "",
+  "cloudEncryptionKey": ""
+}

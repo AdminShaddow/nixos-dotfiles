@@ -1,0 +1,3 @@
+Host dietpi
+    HostName 192.168.1.35
+    User root

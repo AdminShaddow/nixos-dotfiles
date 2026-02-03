@@ -1,0 +1,9 @@
+[
+	{
+		"name": "nixos",
+		"rootPath": "/etc/nixos",
+		"paths": [],
+		"tags": [],
+		"enabled": true
+	}
+]

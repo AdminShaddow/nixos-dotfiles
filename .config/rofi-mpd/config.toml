@@ -1,0 +1,10 @@
+music_directory = "~/Music"
+case_sensitive = false
+enable_disc_names = true
+tracks_keep_open = true
+discs_keep_open = true
+play_on_add = false
+[[hosts]]
+host = "localhost"
+port = 6600
+
